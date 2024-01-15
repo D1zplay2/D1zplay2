@@ -2,6 +2,7 @@ Hi Im a german student who likes to program
 
 Languages I know:
 * Python
+* Lua
 * C#
 * Java
 * JavaScript
