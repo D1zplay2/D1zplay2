@@ -3,6 +3,7 @@ Hi Im a german student who likes to program
 Languages I know:
 * Python
 * Lua
+* C
 * C#
 * Java
 * JavaScript
@@ -10,4 +11,4 @@ Languages I know:
 * Html
 * Css
 
-I am currently learning C++ and I hope to get a job in programing in the future
+I am currently learning how to write a report
